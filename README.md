@@ -4,6 +4,6 @@ Using this tutorial https://dev.to/davidbell_xyz/build-with-the-swapi-star-wars-
 
 ## Things Learned
 
-1) Breakout baase url in it's own variable
+1) Breakout base url in it's own variable
 2) Stored endpoints in their own array
 
